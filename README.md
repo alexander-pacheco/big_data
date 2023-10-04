@@ -1,4 +1,4 @@
 ### Autores
-Alexander Pacheco
-RAfael Paganini
-Alan Starobinski
+* Alexander Pacheco
+* Rafael Paganini
+* Alan Starobinski
